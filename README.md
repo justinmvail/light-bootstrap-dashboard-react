@@ -116,14 +116,14 @@ light-bootstrap-dashboard-react
     │   └── Sidebar
     │       └── Sidebar.js
     └── views
-        ├── Dashboard.js
-        ├── Icons.js
-        ├── Maps.js
-        ├── Notifications.js
-        ├── TableList.js
-        ├── Typography.js
-        ├── Upgrade.js
-        └── UserProfile.js
+        ├── Dashboard.jsx
+        ├── Icons.jsx
+        ├── Maps.jsx
+        ├── Notifications.jsx
+        ├── TableList.jsx
+        ├── Typography.jsx
+        ├── Upgrade.jsx
+        └── UserProfile.jsx
 ```
 
 ## Browser Support
